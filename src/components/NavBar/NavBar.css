@@ -1,0 +1,24 @@
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: aquamarine;
+
+}
+
+h3{
+    font-size: 20;
+    font-family: 'Concert one', cursive;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.Categorias {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    
+}
