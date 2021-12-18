@@ -1,4 +1,5 @@
 import ItemCount from '../ItemCount/ItemCount'
+import ItemDetail from '../ItemDetail'
 import './Item.css'
 
 const Item = ({productos}) => {
